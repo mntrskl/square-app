@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Interview.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Projects\Motmi\Sandbox\Interview\.idea\.idea.Interview\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
