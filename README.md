@@ -8,8 +8,8 @@ Detalles a implementar:
 - Acciones
 	- Jump: Movimiento vertical en el eje Y (+50) que retorna al origen.
 	- Spin: Rotacion sobre el eje Z de 360°.
-   	- Ping Pong: Movimiento lateral que visita ambos extremos en X (50,-50) y retorna al origen.
-   	- Play Animation: Ejecuta un Animation Clip asociado al objeto.
+  - Ping Pong: Movimiento lateral que visita ambos extremos en X (50,-50) y retorna al origen.
+  - Play Animation: Ejecuta un Animation Clip asociado al objeto.
 - Deseables
 	- Efectuar correcciones previamente discutidas.
 	- Evitar que el usuario pueda ejecutar varias acciones al mismo tiempo. O permitir esto de manera ordenada y limpia.
